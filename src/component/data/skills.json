@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS3",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Media Query",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Tailwind ",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "ES6",
+    "imageSrc": "skills/es6.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Redux Toolkit",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "Api Integration",
+    "imageSrc": "skills/api.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  }
+]

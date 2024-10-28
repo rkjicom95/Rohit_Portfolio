@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Front End Developer (React Js)",
+    "organisation": "(SelectKaro Pvt Ltd)",
+    "startDate": "April, 2024",
+    "endDate": "Present",
+    "location": "Prayagraj,UP",
+    "experiences": [
+      "Worked on services website",
+      "Worked with the back end Team"
+    ],
+    "imageSrc": "company/select.png"
+  },
+  {
+    "id": 2,
+    "role": "Front End Developer (React Js)",
+    "organisation": "(Comfygen Pvt Ltd)",
+    "startDate": "Nov, 2022",
+    "endDate": "Jun, 2023",
+    "location": "Jaipur , Rajasthan",
+    "experiences": [
+      "Worked on company website and news",
+      "Worked on convert website html to react.js"
+    ],
+    "imageSrc": "company/comfygen.png"
+  }
+  
+]
