@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import hero from "../component/data/hero.json";
+import rrr from  "../component/data/hero.json";
 import Typed from "typed.js";
 import pdf from "../pdf/resume.pdf";
 
@@ -51,7 +52,8 @@ const Home = () => {
 
         <div className="flex justify-center items-center">
           <img
-            src={`./assets/${hero.imgSrc}`}
+            // src={`./assets/${hero.imgSrc}`}
+            src={`./assets/${rrr.imgSrc}`}
             alt="Hero"
             className=" home-image h-[180px] w-[180px] lg:h-[240px] lg:w-[240px] rounded-full border-4 border-yellow-300"
           />

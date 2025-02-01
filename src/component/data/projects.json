@@ -34,7 +34,15 @@
   {
     "key": 5,
     "title": "ManualOTP(Service Website)",
-    "imageSrc": "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/579818iFF78C13888C1847B/image-size/original?v=v2&px=-1",
+    "imageSrc": "https://www.sumydesigns.com/wp-content/uploads/2025/01/certified-sweeps-Portfolio_Mockups.jpg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 6,
+    "title": "Recharge(Service Website)",
+    "imageSrc": "https://info.ehl.edu/hubfs/Blog-EHL-Insights/Blog-Header-EHL-Insights/service%20design.jpeg",
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
     "source": "https://www.github.com"

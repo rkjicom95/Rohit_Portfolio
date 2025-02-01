@@ -16,6 +16,10 @@
     "imageSrc": "skills/tailwind.png"
   },
   {
+    "title": "Bootstrap ",
+    "imageSrc": "skills/bootstrap.jpg"
+  },
+  {
     "title": "JavaScript",
     "imageSrc": "skills/javascript.png"
   },
@@ -24,8 +28,12 @@
     "imageSrc": "skills/es6.png"
   },
   {
-    "title": "React",
+    "title": "React Js",
     "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Next Js",
+    "imageSrc": "skills/next.jpg"
   },
   {
     "title": "Redux Toolkit",

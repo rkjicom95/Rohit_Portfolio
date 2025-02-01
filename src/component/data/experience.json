@@ -1,16 +1,29 @@
 [
   {
     "id": 1,
-    "role": "Front End Developer (React Js)",
+    "role": "Front End Developer (React Js / Next Js)",
     "organisation": "(SelectKaro Pvt Ltd)",
-    "startDate": "April, 2024",
+    "startDate": "Sep, 2024",
     "endDate": "Present",
     "location": "Prayagraj,UP",
     "experiences": [
       "Worked on services website",
-      "Worked with the back end Team"
+      "Worked with the back end team"
     ],
     "imageSrc": "company/select.png"
+  },
+  {
+    "id": 3,
+    "role": "Front End Developer (React Js)",
+    "organisation": "(Contactor Base!)",
+    "startDate": "July, 2023",
+    "endDate": "Aug, 2024",
+    "location": "India",
+    "experiences": [
+      "Worked on different different websites",
+      "Worked on different layout and page"
+    ],
+    "imageSrc": "company/freelancer-logo.png"
   },
   {
     "id": 2,
@@ -25,5 +38,4 @@
     ],
     "imageSrc": "company/comfygen.png"
   }
-  
 ]
