@@ -1,8 +1,8 @@
 import React, { useEffect, useRef } from "react";
-import hero from "../component/data/hero.json";
+// import hero from "../component/data/hero.json";
 import rrr from "../component/data/hero.json";
 import Typed from "typed.js";
-import pdf from "../pdf/RohitCV.pdf";
+import pdf from "../pdf/RohitWeb.pdf";
 
 const Home = () => {
   const typedRef = useRef(null);
@@ -42,7 +42,7 @@ const Home = () => {
           <a
             class="relative inline-flex items-center justify-center p-0.5 mb-2 me-2 overflow-hidden text-sm font-medium text-yellow-300 hover:text-gray-900 rounded-lg group bg-gradient-to-br from-red-200 via-red-300 to-yellow-200 group-hover:from-red-200 group-hover:via-red-300 group-hover:to-yellow-200 dark:text-white dark:hover:text-gray-900 focus:outline-none focus:ring-red-100 dark:focus:ring-red-400"
             href={pdf}
-            download="resume.pdf"
+            download="RohitWeb.pdf"
           >
             <span class="relative text-xs lg:text-xl px-2 py-2 transition-all ease-in duration-75 bg-custom-bg dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
               Download Resume
