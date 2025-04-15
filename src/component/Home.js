@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 // import hero from "../component/data/hero.json";
 import rrr from "../component/data/hero.json";
 import Typed from "typed.js";
-import pdf from "../pdf/RohitWeb.pdf";
+import pdf from "../pdf/CVRohit.pdf";
 
 const Home = () => {
   const typedRef = useRef(null);
