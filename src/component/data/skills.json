@@ -28,6 +28,10 @@
     "imageSrc": "skills/es6.png"
   },
   {
+    "title": "TypeScript",
+    "imageSrc": "skills/ts.png"
+  },
+  {
     "title": "React Js",
     "imageSrc": "skills/react.png"
   },

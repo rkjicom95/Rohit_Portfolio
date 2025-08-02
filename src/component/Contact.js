@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { FaInstagram } from "react-icons/fa";
 import { CiFacebook } from "react-icons/ci";
 import { CiLinkedin } from "react-icons/ci";
@@ -33,7 +33,7 @@ const Contact = () => {
           <CiFacebook className="h-4 w-4 lg:h-8 lg:w-8" />
         </Link>
         <Link
-          to="https://in.linkedin.com/"
+          to="https://www.linkedin.com/in/rohit-kumar-ba8868239/"
           target="_blank"
           className=" bg-black p-2 lg:p-4 rounded-full border-2 border-yellow-300 hover:shadow-custom-shadow"
         >
@@ -47,7 +47,7 @@ const Contact = () => {
           <FaSquareXTwitter className="h-4 w-4 lg:h-8 lg:w-8" />
         </Link>
         <Link
-          to="https://www.github.com"
+          to="https://github.com/rkjicom95"
           target="_blank"
           className=" bg-black p-2 lg:p-4 rounded-full border-2 border-yellow-300 hover:shadow-custom-shadow"
         >

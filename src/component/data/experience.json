@@ -1,10 +1,23 @@
 [
   {
     "id": 1,
+    "role": "Front End Developer (React Js)",
+    "organisation": "(Contactor Base!)",
+    "startDate": "May, 2025",
+    "endDate": "Present",
+    "location": "India",
+    "experiences": [
+      "Worked on gaming websites",
+      "Worked on different layout and page"
+    ],
+    "imageSrc": "company/freelancer-logo.png"
+  },
+  {
+    "id": 2,
     "role": "Front End Developer (React Js / Next Js)",
     "organisation": "(SelectKaro Pvt Ltd)",
     "startDate": "June, 2024",
-    "endDate": "Present",
+    "endDate": "April, 2025",
     "location": "Prayagraj,UP",
     "experiences": [
       "Worked on services website",
@@ -14,19 +27,6 @@
   },
   {
     "id": 3,
-    "role": "Front End Developer (React Js)",
-    "organisation": "(Contactor Base!)",
-    "startDate": "July, 2023",
-    "endDate": "May, 2024",
-    "location": "India",
-    "experiences": [
-      "Worked on different different websites",
-      "Worked on different layout and page"
-    ],
-    "imageSrc": "company/freelancer-logo.png"
-  },
-  {
-    "id": 2,
     "role": "Front End Developer (React Js)",
     "organisation": "(Comfygen Pvt Ltd)",
     "startDate": "Nov, 2022",

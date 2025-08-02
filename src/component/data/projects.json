@@ -1,6 +1,14 @@
 [
   {
     "key": 1,
+    "title": "Gaming Website",
+    "imageSrc": "/assets/proj/webpage.png",
+    "description": "This is a gaming website project made with complete React js.",
+    "demo": "https://wingame11.com",
+    "source": "https://github.com/sauravsaran99/wingame"
+  },
+  {
+    "key": 2,
     "title": "Comfygen Website",
     "imageSrc": "https://media.licdn.com/dms/image/v2/D560BAQGrxEjhgK1Edw/company-logo_200_200/company-logo_200_200/0/1703832977058/comfygen_private_limited_logo?e=2147483647&v=beta&t=SFJti38Jm4NYnvQsemjIZhFXldgYG-nfSwH8AHzkJCc",
     "description": "This is a project made with complete React js.",
@@ -8,7 +16,7 @@
     "source": "https://www.example.com/"
   },
   {
-    "key": 2,
+    "key": 3,
     "title": "Furniture Store",
     "imageSrc": "https://furnitureji.netlify.app/static/media/hero.a1fb3fd2f4930e41bbd8.png",
     "description": "This is a project made with complete React js.",
@@ -16,7 +24,7 @@
     "source": "https://github.com/rkjicom95/Furniture_Website"
   },
   {
-    "key": 3,
+    "key": 4,
     "title": "Shree Company Website",
     "imageSrc": "https://shreecompany.netlify.app/static/media/weone.0331b46f6bb0d3d8a9e1.webp",
     "description": "This is a project made with complete React js.",
@@ -24,7 +32,7 @@
     "source": "https://github.com/rkjicom95/Shree_Company_Website"
   },
   {
-    "key": 4,
+    "key": 5,
     "title": "91Sim (Service Website)",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
     "description": "This is a project made with complete React js.",
@@ -32,7 +40,7 @@
     "source": "https://github.com/"
   },
   {
-    "key": 5,
+    "key": 6,
     "title": "ManualOTP(Service Website)",
     "imageSrc": "https://www.sumydesigns.com/wp-content/uploads/2025/01/certified-sweeps-Portfolio_Mockups.jpg",
     "description": "This is a project made with complete React js.",
@@ -40,8 +48,8 @@
     "source": "https://www.github.com"
   },
   {
-    "key": 6,
-    "title": "Recharge(Service Website)",
+    "key": 7,
+    "title": "Recharge(Service Website",
     "imageSrc": "https://info.ehl.edu/hubfs/Blog-EHL-Insights/Blog-Header-EHL-Insights/service%20design.jpeg",
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
